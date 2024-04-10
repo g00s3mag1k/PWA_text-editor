@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/badge/license-MIT-purple?style=plastic)
 
-Render URL: 
+Render URL: https://pwa-text-editor-c77u.onrender.com
 
 ## Description
 
@@ -29,6 +29,9 @@ Technologies Used:
 If you don't want to import the repo code to your local device, you can use the Render URL to access the deployed PWA and install it onto your computer by clicking "Install" in the upper left hand corner. To use the text-editor simply click on the URL and start typing and press enter once done to jump down to the next line. All data will be stored in the IndexedDB, can even be accessed offline!
 
 (Ex.) 
+![Screenshot 2024-04-10 000435](https://github.com/g00s3mag1k/PWA_text-editor/assets/141582553/57663704-8033-44bd-8cbc-1631511b88e5)
+![Screenshot 2024-04-10 000703](https://github.com/g00s3mag1k/PWA_text-editor/assets/141582553/37815753-92bd-4f56-91e3-6c0743fa55ed)
+
 
 ## Credits
 
